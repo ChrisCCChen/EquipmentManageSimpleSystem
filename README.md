@@ -1,0 +1,2 @@
+# EquipmentManageSimpleSystem
+这是我大四上最后一门本科课程《管理信息系统》的大作业，本代码使用java实现了一个简易的学校器材管理系统。
